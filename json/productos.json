@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "tipo": "Buzon",
+    "nombre": "Buzon Gamer",
+    "precio": 14000,
+    "foto": "./media/Buzones-Japon-01.jpg"
+  },
+  {
+    "id": 2,
+    "tipo": "Buzon",
+    "nombre": "Buzon Buena Onda",
+    "precio": 14000,
+    "foto": "./media/Buzones-Japon-02.jpg"
+  },
+  {
+    "id": 3,
+    "tipo": "Buzon",
+    "nombre": "Buzon Muñeca Poseida",
+    "precio": 1000,
+    "foto": "./media/Buzones-Japon-03.jpg"
+  },
+  {
+    "id": 4,
+    "tipo": "Buzon",
+    "nombre": "Buzon Pinguino Falopa",
+    "precio": 10020,
+    "foto": "./media/Buzones-Japon-04.jpg"
+  },
+  {
+    "id": 5,
+    "tipo": "Buzon",
+    "nombre": "Buzon Japo-Chino",
+    "precio": 15999,
+    "foto": "./media/Buzones-Japon-05.jpg"
+  },
+  {
+    "id": 6,
+    "tipo": "Buzon",
+    "nombre": "Buzon Noir",
+    "precio": 15800,
+    "foto": "./media/Buzones-Japon-06.jpg"
+  },
+  {
+    "id": 7,
+    "tipo": "Buzon",
+    "nombre": "Buzon Hombre de Nieve",
+    "precio": 45020,
+    "foto": "./media/Buzones-Japon-07.jpg"
+  },
+  {
+    "id": 8,
+    "tipo": "Buzon",
+    "nombre": "Buzon Ejecutivo",
+    "precio": 38047,
+    "foto": "./media/Buzones-Japon-08.jpg"
+  },
+  {
+    "id": 9,
+    "tipo": "Buzon",
+    "nombre": "Buzon Quemierdaeseso",
+    "precio": 41268,
+    "foto": "./media/Buzones-Japon-09.jpg"
+  },
+  {
+    "id": 10,
+    "tipo": "Buzon",
+    "nombre": "Buzon Montaña Hentai",
+    "precio": 13354,
+    "foto": "./media/Buzones-Japon-10.jpg"
+  },
+  {
+    "id": 11,
+    "tipo": "Buzon",
+    "nombre": "Buzon Minero",
+    "precio": 27000,
+    "foto": "./media/Buzones-Japon-11.jpg"
+  },
+  {
+    "id": 12,
+    "tipo": "Buzon",
+    "nombre": "Buzon Pio Pio",
+    "precio": 12200,
+    "foto": "./media/Buzones-Japon-12.jpg"
+  },
+  {
+    "id": 13,
+    "tipo": "Buzon",
+    "nombre": "Buzon Apple Nipon",
+    "precio": 10700,
+    "foto": "./media/Buzones-Japon-13.jpg"
+  },
+  {
+    "id": 14,
+    "tipo": "Buzon",
+    "nombre": "Buzon Kung Fu Panda",
+    "precio": 13770,
+    "foto": "./media/Buzones-Japon-14.jpg"
+  },
+  {
+    "id": 15,
+    "tipo": "Buzon",
+    "nombre": "Buzon Monasterio",
+    "precio": 23800,
+    "foto": "./media/Buzones-Japon-15.jpg"
+  },
+  {
+    "id": 16,
+    "tipo": "Buzon",
+    "nombre": "Buzon Japo-Australiano",
+    "precio": 23640,
+    "foto": "./media/Buzones-Japon-16.jpg"
+  },
+  {
+    "id": 17,
+    "tipo": "Buzon",
+    "nombre": "Buzon Matroska Nipon",
+    "precio": 8000,
+    "foto": "./media/Buzones-Japon-17.jpg"
+  },
+  {
+    "id": 18,
+    "tipo": "Buzon",
+    "nombre": "Buzon Bola de Fraile Enamorada",
+    "precio": 8000,
+    "foto": "./media/Buzones-Japon-18.jpg"
+  }
+]
